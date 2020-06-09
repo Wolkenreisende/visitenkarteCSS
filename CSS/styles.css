@@ -6,8 +6,8 @@ line-height: 1.5;
 }
 
 .box1 {
-  height: 650px;
-  width: auto;
+  height:auto;
+  width: 900px;
   margin: 0;
   padding: 80px;
   font-family: 'Architects Daughter', cursive;
@@ -19,11 +19,12 @@ h1 {
 }
 
 .kleinebox {
-  margin: 0 auto;
+  margin: 20px;
   text-align: center;
   height: 270px;
   padding-top: 20px;
   width: 300px;
+  float: left;
   font-family: 'Architects Daughter', cursive;
 
 }
@@ -31,6 +32,7 @@ h1 {
 .innerbox1 {
   width: auto ;
   height: auto;
+  margin: 10px;
   background-color: yellow;
 }
 
