@@ -23,8 +23,8 @@ p {
 }
 .kleinebox {
   text-align: center;
-  height: 270px;
-  width: 900px;
+  height: 200px;
+  width: 500px;
   margin: 50px auto;
   font-family: 'Architects Daughter', cursive;
 
@@ -33,11 +33,13 @@ p {
 .innerbox1 {
   width: auto ;
   height: auto;
+float: left;
 
 }
 
 .innerbox2 {
   width: auto ;
   height: auto;
+  float: right;
 
 }
