@@ -18,11 +18,14 @@ h1 {
   font-size: 4rem;
 }
 
+p {
+  font-size: 20px;
+}
 .kleinebox {
   text-align: center;
   height: 270px;
   width: 900px;
-  margin: 0 auto;
+  margin: 50px auto;
   font-family: 'Architects Daughter', cursive;
 
 }
@@ -30,11 +33,11 @@ h1 {
 .innerbox1 {
   width: auto ;
   height: auto;
-  background-color: yellow;
+
 }
 
 .innerbox2 {
   width: auto ;
   height: auto;
-  background-color: blue;
+
 }
