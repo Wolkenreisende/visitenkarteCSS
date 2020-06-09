@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+line-height: 1.5;
+
+
+}
+
+.box1 {
+  height: 650px;
+  width: auto;
+  margin: 0;
+  padding: 80px;
+  font-family: 'Architects Daughter', cursive;
+
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.kleinebox {
+  text-align: center;
+  height: 300px;
+  padding-top: 20px;
+  width: 300px;
+  margin: 0px auto;
+  padding: 0px;
+  font-family: 'Architects Daughter', cursive;
+
+}
+
+.innerbox1 {
+  width: 50 ;
+  float: left;
+  margin: 0px 10px 0px 0px;
+  height: auto;
+  background-color: yellow;
+}
+
+.innerbox2 {
+  width: 250px ;
+  float: right;
+  mmargin: 0px 00px 0px 10px;
+  height: auto;
+  background-color: blue;
+}
