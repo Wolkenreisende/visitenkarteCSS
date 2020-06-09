@@ -19,28 +19,23 @@ h1 {
 }
 
 .kleinebox {
+  margin: 0 auto;
   text-align: center;
-  height: 300px;
+  height: 270px;
   padding-top: 20px;
   width: 300px;
-  margin: 0px auto;
-  padding: 0px;
   font-family: 'Architects Daughter', cursive;
 
 }
 
 .innerbox1 {
-  width: 50 ;
-  float: left;
-  margin: 0px 10px 0px 0px;
+  width: auto ;
   height: auto;
   background-color: yellow;
 }
 
 .innerbox2 {
-  width: 250px ;
-  float: right;
-  mmargin: 0px 00px 0px 10px;
+  width: auto ;
   height: auto;
   background-color: blue;
 }
